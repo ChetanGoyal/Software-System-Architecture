@@ -1,1 +1,5 @@
-This project implements three software architecture strategies namely State Design Pattern, Abstract Factory Design Pattern and Strategy pattern.
+This project is based on Model Driven Architecture and implements Object Oriented Design pattern.
+Primary design patterns implemented are:
+State Patter.
+Abstract Factory Pattern
+Strategy Patter.
